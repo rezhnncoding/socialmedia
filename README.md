@@ -1,6 +1,4 @@
 # socialmedia
-SOCIALMEDIA
-
 How to run
 Requirement
 mysql server running on default port (3306)
