@@ -14,5 +14,7 @@ Users
 # Technologies
 
 https://pkg.go.dev/github.com/go-sql-driver/mysql@v1.7.0
+
 https://pkg.go.dev/github.com/gorilla/mux@v1.8.0
+
 https://pkg.go.dev/github.com/joho/godotenv@v1.5.1
